@@ -1,3 +1,4 @@
+//Jefferson Queiroz
 let participantes = [
     {
         nome: "Diego Fernandes",
